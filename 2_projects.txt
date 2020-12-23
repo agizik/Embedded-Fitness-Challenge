@@ -1,0 +1,6 @@
+embedded_fitness_alpha is the project I designed and exercised and completed the project you can follow my
+all progress and tests, this one works amazing but the code is a mess.
+
+embedded_fitness_betha is way easier to understand what I have done. Since I do not read roll and pitch in this 
+version sampling frequency dramatically changed so I will do some more exercises to change some of the condition 
+variables to make it work better.
